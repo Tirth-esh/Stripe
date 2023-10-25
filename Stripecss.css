@@ -1,0 +1,84 @@
+header{
+    background-color: lightsalmon;
+}
+.logo{
+    font-size: 28px;
+    font-family: 'Dancing Script', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    padding-left: 70px;
+}
+nav{
+    padding: 8px;
+}
+a{
+    padding: 8px;
+    text-decoration: none;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+.Products,.Solutions,.Pricing,.Developers,.Resources,.Dashboard,.Contact_Sales{
+    color: #fff;
+    font-size: larger;
+}
+.Pricing{
+    padding-right: 420px;
+}
+h1{
+    font-size: 100px;
+    padding-left: 135px;
+    /* font-family: 'Kanit', sans-serif; */
+}
+.app_image{
+    float: right;
+    height: 550px;
+    padding-right: 55px
+}
+p{
+    padding-left: 135px;
+    color: rgb(61, 58, 58);
+    font-size: 25px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+.Dashboard{
+    margin: 5px;
+    padding: 8px;
+    background-color: rgb(216, 145, 116);
+    border-radius: 20px;
+
+}
+.Start_now{
+    font-size: 21px;
+    margin-left: 135px;
+    color: #ffffff;
+    background-color: midnightblue;
+    border-radius: 20px;
+    padding: 8px;
+}
+.Contact{
+    font-size: 21px;
+    padding: 8px;
+    color: midnightblue;
+}
+.rocketium,.invideo{
+    padding-left: 220px;
+}
+.nalli,.slack,.zoom,.shopify{
+    padding-left: 120px;
+    /* padding-top: 40px; */
+}
+.jaypore,.amazon{
+    padding-left: 120px;
+}
+.invideo,.shopify,.zoom,.amazon{
+    padding-top: 70px;
+}
+.rocketium,.slack,.jaypore{
+    padding-top: 90px;
+}
+/* .nalli{
+    padding-top: 95px;
+} */
+.company_logo{
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #e1e1e1e8;
+}
